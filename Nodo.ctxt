@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=s
+comment1.target=void\ ol(java.lang.String)
+comment2.params=
+comment2.target=Nodo()
+comment3.params=info
+comment3.target=Nodo(Alunno)
+comment4.params=info\ successivo
+comment4.target=Nodo(Alunno,\ Nodo)
+comment5.params=info
+comment5.target=void\ setInfo(Alunno)
+comment6.params=n
+comment6.target=void\ setSuccessivo(Nodo)
+comment7.params=
+comment7.target=Alunno\ getInfo()
+comment8.params=
+comment8.target=Nodo\ getSuccessivo()
+comment9.params=
+comment9.target=void\ vedi()
+numComments=10
